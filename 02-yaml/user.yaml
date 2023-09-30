@@ -1,0 +1,17 @@
+firstName: Refaldy
+middleName: Bagas
+lastName: Anggana
+hobbies:
+  - Coding
+  - Reading
+  - Gaming
+address:
+  street: Jalan Cibedug Hilir
+  city: Bandung
+  province: Jawa Barat
+  country: Indonesia
+wallet:
+  - type: cash
+    amount: 100000
+  - type: debit
+    amount: 200000
